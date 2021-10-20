@@ -9,4 +9,3 @@ _Acá te dejo el [link de mi página](https://julietamalerba1.github.io/CV/)._
 ## GitHub
 
 [Mi GitHub](https://github.com/julietamalerba1) 😊
-# my-cv

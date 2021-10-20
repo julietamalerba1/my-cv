@@ -4,7 +4,7 @@ _Decidí hacer mi currículum como primer proyecto utilizando HTML5 y CSS, para 
 
 ## Mi CV
 
-_Acá te dejo el [link de mi página](https://julietamalerba1.github.io/CV/)._
+_Acá el [link de mi página](https://julietamalerba1.github.io/my-cv/)._
 
 ## GitHub
 
